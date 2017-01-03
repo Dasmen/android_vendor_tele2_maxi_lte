@@ -331,8 +331,8 @@ PRODUCT_COPY_FILES += \
     vendor/tele2/maxi_lte/proprietary/lib/libMtkOmxAlacDec.so:system/lib/libMtkOmxAlacDec.so \
     vendor/tele2/maxi_lte/proprietary/lib/libbluetoothem_mtk.so:system/lib/libbluetoothem_mtk.so \
     vendor/tele2/maxi_lte/proprietary/lib64/libbluetoothem_mtk.so:system/lib64/libbluetoothem_mtk.so \
-#   vendor/tele2/maxi_lte/proprietary/lib/libcam.halsensor.so:system/lib/libcam.halsensor.so \
-#   vendor/tele2/maxi_lte/proprietary/lib64/libcam.halsensor.so:system/lib64/libcam.halsensor.so \
+    vendor/tele2/maxi_lte/proprietary/lib/libcam.halsensor.so:system/lib/libcam.halsensor.so \
+    vendor/tele2/maxi_lte/proprietary/lib64/libcam.halsensor.so:system/lib64/libcam.halsensor.so \
     vendor/tele2/maxi_lte/proprietary/lib/libcam.hal3a.v3.so:system/lib/libcam.hal3a.v3.so \
     vendor/tele2/maxi_lte/proprietary/lib64/libcam.hal3a.v3.so:system/lib64/libcam.hal3a.v3.so \
     vendor/tele2/maxi_lte/proprietary/lib/libem_sensor_jni.so:system/lib/libem_sensor_jni.so \
@@ -433,7 +433,4 @@ PRODUCT_COPY_FILES += \
     vendor/tele2/maxi_lte/proprietary/lib/libimageio_FrmB.so:system/lib/libimageio_FrmB.so \
     vendor/tele2/maxi_lte/proprietary/lib64/libimageio_FrmB.so:system/lib64/libimageio_FrmB.so \
     vendor/tele2/maxi_lte/proprietary/lib/libpq_cust.so:system/lib/libpq_cust.so \
-    vendor/tele2/maxi_lte/proprietary/lib64/libpq_cust.so:system/lib64/libpq_cust.so \
-    vendor/tele2/maxi_lte/proprietary/lib/libcam2halsensor.so:system/lib/libcam2halsensor.so \
-    vendor/tele2/maxi_lte/proprietary/lib64/libcam2halsensor.so:system/lib64/libcam2halsensor.so
-
+    vendor/tele2/maxi_lte/proprietary/lib64/libpq_cust.so:system/lib64/libpq_cust.so
